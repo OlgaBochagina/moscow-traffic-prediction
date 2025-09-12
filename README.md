@@ -1,14 +1,6 @@
 # Moscow Traffic Predictor: Исследование Ансамблевых Моделей
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
-  <img src="https://img.shields.io/badge/Scikit--Learn-1.6.1-orange?style=for-the-badge&logo=scikit-learn" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/LightGBM-4.5.0-9cf?style=for-the-badge" alt="LightGBM">
-  <img src="https://img.shields.io/badge/PyTorch-2.0%2B-red?style=for-the-badge&logo=pytorch" alt="PyTorch">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-</p>
-
-Это не просто курсовая работа, а глубокое эмпирическое исследование эффективности 21 модели машинного обучения для решения задачи регрессии на реальных данных о дорожном трафике в Москве. 
+Это исследование эффективности 21 модели машинного обучения для решения задачи регрессии на реальных данных о дорожном трафике в Москве. 
 
 **Цель проекта:** найти оптимальный метод для предсказания загруженности дорог, сравнив производительность, скорость обучения и устойчивость различных моделей — от простых линейных до сложных ансамблей и нейронных сетей.
 
